@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WisdomOyor
+- 👀 I’m interested in Web/App Develoopment
+- 🌱 I’m currently learning Front-end Development
+- 💞️ I’m looking to collaborate on Web Development Projects
+- 📫 You can reach me through this email: wgoyor@gmail.com
